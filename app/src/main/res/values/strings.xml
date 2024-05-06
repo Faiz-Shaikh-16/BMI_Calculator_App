@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI Calculator Kotlin</string>
+    <string name="strUnderWt">You\'re UnderWeight</string>
+    <string name="strOverWt">You\'re Overweight</string>
+    <string name="strHealthy">You\'re Healthy</string>
+</resources>
